@@ -2,7 +2,6 @@
 ---
 
 - Ruby 변수 ~ 해시 정리본
-- 오탈자 교정 지적은 언제나 환영해요.
 
 ---
 
@@ -14,8 +13,6 @@
 
 ## Author
 
-written by [우미연](https://miyon2.github.io).
+written by [이현경](https://hyunkyung12.github.io).
 
-![](https://avatars.githubusercontent.com/miyon2?v=2&s=100)
-
-<a href="https://miyon2.github.io" target="_blank" class="btn btn-black"><i class="fa fa-github fa-lg"></i> Visit on Github Page &rarr;</a>
+<a href="https://hyunkyung12.github.io" target="_blank" class="btn btn-black"><i class="fa fa-github fa-lg"></i> Visit on Github Page &rarr;</a>
