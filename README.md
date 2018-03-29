@@ -1,4 +1,4 @@
-2주차 월요일 수업자료(Ruby)
+2주차 수업자료(Ruby)
 ---
 
 - Ruby 변수 ~ 해시 정리본
@@ -13,6 +13,6 @@
 
 ## Author
 
-written by [이현경](https://hyunkyung12.github.io).
+written by [박현진](https://github.com/HyeonJin1030).
 
-<a href="https://hyunkyung12.github.io" target="_blank" class="btn btn-black"><i class="fa fa-github fa-lg"></i> Visit on Github Page &rarr;</a>
+<a href="https://github.com/HyeonJin1030" target="_blank" class="btn btn-black"><i class="fa fa-github fa-lg"></i> Visit on Github Page &rarr;</a>
